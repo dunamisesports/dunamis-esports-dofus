@@ -8,10 +8,7 @@
 
 .hero {
 
-  height: 100vh;
-  background-image: url("/krozmosBg.png");
-  background-size: cover;
-  background-position: center;
+
   display: flex;
   justify-content: center;
   align-items: center;
